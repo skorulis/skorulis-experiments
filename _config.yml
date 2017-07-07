@@ -1,0 +1,24 @@
+title: experiments.skorulis.com
+description: Hypotheses need to be tested.
+show_downloads: true
+google_analytics: UA-23447195-6
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: "Alex Skorulis"
+twitter:
+  username: skorulis
+github:
+  owner_url: https://github.com/skorulis
+  owner_name: skorulis
+#  site:
+#facebook:
+#  publisher: lorepirri
+#  profile_id: 1809805629
+#  app_id: 1798910940422432
+#  admins:
