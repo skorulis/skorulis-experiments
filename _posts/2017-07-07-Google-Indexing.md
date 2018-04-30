@@ -14,3 +14,7 @@ Method
 
 Create both web pages and check google daily until they are indexed.
 
+Results
+------
+
+* http://journal.skorulis.com showed up on google on Monday 10th July. 3 days was slightly quicker than I expected actually.
